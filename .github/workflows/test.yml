@@ -1,7 +1,8 @@
-name: CI/CD Pipeline
+name: Test
 
 on:
-  push
+  push:
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -11,12 +12,6 @@ jobs:
 
       - name: Install packages
         run: make install
-        
-      - name: Format the code
-        run: make format
-
-      - name: Lint the code
-        run: make lint
 
       - name: Run tests on the main Python file
         run: make test
