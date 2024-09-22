@@ -5,6 +5,35 @@
 
 This is the README for my Individual Project 1 for the IDS706 - Data Engineering Systems class at Duke University.
 
+## Project Structure
+```
+Peter_Min_Data_Engineering_Individual_Project1
+├── .devcontainer/
+│   ├── devcontainer.json
+│   └── Dockerfile
+├── .github/
+│   └── workflows/
+│       ├── format.yml
+│       ├── install.yml
+│       ├── lint.yml
+│       └── test.yml
+├── mylib/
+│   ├── lib.py
+├── .gitignore
+├── main.ipynb
+├── main.py
+├── Makefile
+├── README.md
+├── requirements.txt
+├── spotify_data.html
+├── spotify-2023.csv
+├── stream_count_summary.md
+├── summary_statistics.png
+├── test_lib.py
+├── test_main.py
+└── top_10_artists_by_stream_count.png
+```
+
 ## Dataset
 The dataset comes from Kaggle, a public machine learning and data science community. It contains a CSV file of detailed information regarding the most-streamed Spotify songs in 2023. Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
@@ -17,6 +46,3 @@ For the visualization, I analyzed and visualized the 10 hottest artists by their
 Here is a glimpse into the summary statistics for certain columns from the dataset by running `dataframe.describe()`:
 
 ![alt text](summary_statistics.png)
-
-## Extra Credit
-If you examine the [one of the latest commits by myself](https://github.com/nogibjj/Peter_Min_Data_Engineering_Project3/actions/runs/10977799956/job/30480175871) in GitHub, you will see that both the HTML descriptive data analytics file from the `ProfileReport` and the markdown descriptive statistics file are built automatically at each push from the CI/CD pipeline. PDF file format is not supported by this package so HTML has to be used here.
