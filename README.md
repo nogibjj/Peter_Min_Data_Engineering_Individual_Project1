@@ -47,3 +47,6 @@ For the visualization, I analyzed and visualized the 10 hottest artists by their
 Here is a glimpse into the summary statistics for certain columns from the dataset by running `dataframe.describe()`:
 
 ![alt text](summary_statistics.png)
+
+## Demo Video
+Here is the [link](https://youtu.be/omky9cwbipQ) to my demo video on YouTube.
