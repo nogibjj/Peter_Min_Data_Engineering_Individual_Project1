@@ -11,3 +11,4 @@ ydata_profiling
 polars
 pyarrow
 nbval
+setuptools

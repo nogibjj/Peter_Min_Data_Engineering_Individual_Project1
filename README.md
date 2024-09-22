@@ -1,7 +1,9 @@
-# Mini_Project_3
-[![CI/CD Pipeline](https://github.com/nogibjj/Peter_Min_Data_Engineering_Project3/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Project3/actions/workflows/cicd.yml)
+# Individual_Project_1
+[![Install](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/lint.yml)
 
-This is the README for my Mini Project 3 for the IDS706 - Data Engineering Systems class at Duke University.
+This is the README for my Individual Project 1 for the IDS706 - Data Engineering Systems class at Duke University.
 
 ## Dataset
 The dataset comes from Kaggle, a public machine learning and data science community. It contains a CSV file of detailed information regarding the most-streamed Spotify songs in 2023. Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
