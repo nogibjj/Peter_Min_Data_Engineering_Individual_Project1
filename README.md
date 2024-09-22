@@ -8,11 +8,8 @@ This is the README for my Individual Project 1 for the IDS706 - Data Engineering
 ## Dataset
 The dataset comes from Kaggle, a public machine learning and data science community. It contains a CSV file of detailed information regarding the most-streamed Spotify songs in 2023. Link: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023/data
 
-## Techniques Applied
-In addition to [Pandas](https://pandas.pydata.org/) for convenience with drawing figures, I have integrated [Polars](https://pola.rs) for more convenience in data preparation. Compared to Pandas, Polars is faster and more expressive in terms of mimicking the behaviors of data wranling syntax.
-
 ## Data Visualization
-For the visualization, I analyzed and visualized the 10 hottest artists by their stream counts.
+For the visualization, I analyzed and visualized the 10 hottest artists by their stream counts using [Pandas](pandas.pydata.org)
 
 ![alt text](top_10_artist_by_stream_count.png)
 
