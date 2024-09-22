@@ -2,6 +2,7 @@
 [![Install](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/install.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/install.yml)
 [![Format](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/format.yml)
 [![Lint](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/nogibjj/Peter_Min_Data_Engineering_Individual_Project1/actions/workflows/test.yml)
 
 This is the README for my Individual Project 1 for the IDS706 - Data Engineering Systems class at Duke University.
 
