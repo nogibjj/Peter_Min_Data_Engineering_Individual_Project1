@@ -12,3 +12,6 @@ polars
 pyarrow
 nbval
 setuptools
+ruff
+IProgress
+ipywidgets
